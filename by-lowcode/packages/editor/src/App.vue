@@ -3,7 +3,7 @@
 </script>
 
 <template>
-1
+<div class="">asd</div>
 </template>
 
 <style scoped>
